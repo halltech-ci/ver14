@@ -1,0 +1,4 @@
+[submodule "OCA/pms"]
+	path = OCA/pms
+	url = git@github.com:OCA/pms.git
+	branch = 14.0
